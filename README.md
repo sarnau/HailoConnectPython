@@ -1,2 +1,3 @@
 # HailoConnectPython
-Access the Hailo Connect via Python
+
+Access the Hailo Connect 2 via Python
